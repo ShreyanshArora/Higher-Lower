@@ -34,7 +34,7 @@ Contributions to the Higher Lower Game project are welcome! If you'd like to con
 - Submit a pull request with a detailed description of your changes.
 
 ## License
-Higher Lower Game is licensed under the [insert license]. For more details, see the LICENSE file.
+Higher Lower Game is licensed under the terms of the MIT license. For more details, see the LICENSE file.
 
 ## Contact
 If you have any questions, suggestions, or feedback, feel free to reach out to us at twitter @shreyansh__11__.
